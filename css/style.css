@@ -1,0 +1,17 @@
+.canvas {
+    height: 600;
+    width: 600;
+    margin-right: 200px;
+    margin-left: 230px;
+    margin-top: auto;
+    border: 1px solid gray;
+}
+
+.header {
+  margin-left: 33%
+}
+
+.reset{
+  float: right;
+  margin-right: 350px;
+}
